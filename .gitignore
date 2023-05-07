@@ -1,0 +1,9 @@
+CourseRegistration_WebAPI/obj/
+CourseRegistration_WebAPI/bin/
+*.user
+*.suo
+*.cache
+*.bak
+*.log
+*.vspscc
+*.vssscc
